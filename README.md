@@ -67,14 +67,4 @@ gerador-de-curriculo/
 - **Impressão / Download em PDF** via `window.print()` com regras CSS `@media print`
 - **Layout responsivo** com Bootstrap 5
 
----
 
-## 📸 Telas
-
-> Ver PDF de esboços de telas entregue na Etapa 1 (protótipo das telas).
-
----
-
-## 📄 Licença
-
-Projeto acadêmico — UNIPAR ADS · 2026
